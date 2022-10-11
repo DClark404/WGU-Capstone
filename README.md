@@ -1,4 +1,4 @@
-# WGU-Capstone
+# Client Subscription Predictions Using Logistic Regression Model
 A machine learning project designed for the Western Governors University Capstone Course! This project was an application developed for a fictional company to solve a business problem using a machine learning solution.
 
 Application is accessible through the following link:
